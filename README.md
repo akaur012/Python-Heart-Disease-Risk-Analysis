@@ -43,7 +43,7 @@ Dataset: Heart Disease UCI (Kaggle)
 - Interactive Risk Pathways – Easily visualize which combinations of risk factors are most dangerous.  
   
 - Technologies Used
-✔ Python – Pandas, NumPy, Matplotlib, Seaborn
-✔ Machine Learning – Scikit-learn (Logistic Regression, Decision Tree)
-✔ Data Visualization – Plotly, Matplotlib, Seaborn
-✔ Jupyter Notebook – For interactive analysis
+Python – Pandas, NumPy, Matplotlib, Seaborn
+Machine Learning – Scikit-learn (Logistic Regression, Decision Tree)
+Data Visualization – Plotly, Matplotlib, Seaborn
+Jupyter Notebook – For interactive analysis
